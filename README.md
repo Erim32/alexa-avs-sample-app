@@ -18,10 +18,10 @@ This project provides a step-by-step walkthrough to help you build a **hands-fre
 
 You can set up this project on the following platforms -
 
-* [Raspberry Pi](../wiki/Raspberry-Pi), or
-* [Linux](../wiki/Linux), or
-* [Mac](../wiki/Mac), or
-* [Windows](../wiki/Windows)  
+* [Raspberry Pi](./wiki/Raspberry-Pi), or
+* [Linux](./wiki/Linux), or
+* [Mac](./wiki/Mac), or
+* [Windows](./wiki/Windows)  
 
 Or you can prototype with these third-party dev kits -
 
